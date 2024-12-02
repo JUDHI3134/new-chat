@@ -3,7 +3,7 @@ import './ProfileUpdate.css'
 
 const ProfileUpdate = () => {
   return (
-    <div>
+    <div className='profile'>
       
     </div>
   )
